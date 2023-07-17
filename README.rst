@@ -1,5 +1,9 @@
-Werkzeug
-========
+Werkzeug enhanced
+=================
+
+This is werkzeug framework with small UI changeds / fixes. Example:
+
+.. image:: https://raw.github.com/wiki/mireq/werkzeug/wz_underline.png?v2023-07-11
 
 *werkzeug* German noun: "tool". Etymology: *werk* ("work"), *zeug* ("stuff")
 
