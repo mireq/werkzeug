@@ -1,5 +1,5 @@
 [project]
-name = "Werkzeug"
+name = "Werkzeug-mireq"
 description = "The comprehensive WSGI web application library."
 readme = "README.rst"
 license = {text = "BSD-3-Clause"}
@@ -25,8 +25,8 @@ dynamic = ["version"]
 Donate = "https://palletsprojects.com/donate"
 Documentation = "https://werkzeug.palletsprojects.com/"
 Changes = "https://werkzeug.palletsprojects.com/changes/"
-"Source Code" = "https://github.com/pallets/werkzeug/"
-"Issue Tracker" = "https://github.com/pallets/werkzeug/issues/"
+"Source Code" = "https://github.com/mireq/werkzeug/"
+"Issue Tracker" = "https://github.com/mireq/werkzeug/issues/"
 Chat = "https://discord.gg/pallets"
 
 [project.optional-dependencies]
